@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smatthews34
-- 👀 Interested in Cyber Security, Web Development, Game Design, Databases, and just programming in general!
+- 👀 Interested in Cyber Security, Web Development, Game Design, and Databases
 - 🌱 Currently pursuing a BA degree in Computer Science from Grove City College
 - 📫 Email: matthewssm19@gcc.edu | Phone: (443) 546-0015
 
